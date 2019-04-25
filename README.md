@@ -1,6 +1,6 @@
 # docker-oracle
 
-    docker run -d -p 1521:1521 marcodotcastro/oracle-xe-11g
+    docker run -d -p 1521:1521 engesoftwarebr/oracle
 
 
 hostname: localhost
