@@ -1,7 +1,11 @@
 #DOCKER-ORACLE
 ============================
 
+<<<<<<< HEAD
 Oracle Express Edition 11g Release 2 on Ubuntu 18.04 LTS
+=======
+    docker run -d -p 1521:1521 engesoftwarebr/oracle
+>>>>>>> a62aebb11ac4bf25a45538f584765596050200fa
 
 <del>This **Dockerfile** is a [trusted build](https://registry.hub.docker.com/u/engesoftwarebr/oracle/) of [Docker Registry](https://registry.hub.docker.com/).</del>
 
