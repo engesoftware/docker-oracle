@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 
-MAINTAINER Ruy Ferreira <ruy.silva@engesoftware.com.br>
+MAINTAINER Juliano Buzanello <juliano.buzanello@engesoftware.com.br>
 
 COPY assets/. /tmp/.
 RUN /tmp/setup.sh
